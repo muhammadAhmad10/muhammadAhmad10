@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @muhammadAhmad10
-- 👀 I’m interested in App development
-- 🌱 I’m currently learning Java
+- 👋 Hi, I am Muhammad Ahmad
+- 🌱 I’m currently learning Web Development
 - 📫 You can reach me via e-mail (ahmadcs442@gmail.com)
 
 <!---
